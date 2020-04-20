@@ -1,2 +1,2 @@
 # Academic-projects
-A bunch of work that I did
+A bunch of projects that I did in University
